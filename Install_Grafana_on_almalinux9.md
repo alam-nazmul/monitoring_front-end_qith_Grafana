@@ -111,7 +111,7 @@ systemctl restart httpd
 
 Finally, you can access the Grafana via the domain name at http://Yourdomain.com
 
-![Screenshot from 2024-04-26 03-49-33.png](..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202024-04-26%2003-49-33.png)
+![Screenshot from 2024-04-26 03-49-33.png](Screenshot%20from%202024-04-26%2003-49-33.png)
 
 Enter the credentials as below
 ```angular2html
